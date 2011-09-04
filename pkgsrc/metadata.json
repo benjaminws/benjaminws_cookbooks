@@ -1,0 +1,31 @@
+{
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "long_description": "Use pkgin to maintain solaris binary pkgsrc packages."
+  "providing": {
+  },
+  "platforms": {
+    "solaris2": [
+    ]
+  },
+  "license": "Apache 2.0",
+  "maintainer": "Benjamin W. Smith",
+  "replacing": {
+  },
+  "maintainer_email": "benjaminwarfield@just-another.net",
+  "name": "pkgsrc",
+  "version": "0.0.1",
+  "groupings": {
+  },
+  "dependencies": {
+  },
+  "description": "Use pkgin to maintain solaris binary pkgsrc packages.",
+  "recipes": {
+  },
+  "attributes": {
+  },
+  "recommendations": {
+  }
+}
